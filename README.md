@@ -1,4 +1,3 @@
-# incident-analysis-project
 <h1>Security incident analysis using NIST Cybersecurity Frameworks (CSF)</h1>
 
 
